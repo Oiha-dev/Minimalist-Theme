@@ -84,14 +84,14 @@
         "List": {
             "CellBackground": "1D1F21",
             "CellBackgroundSelected": "161819",
-            "CellBorder": "161819"
+            "CellBorder": "1D1F21"
         },
         "Button": {
             "Background": "1D1F21",
             "BackgroundSelected": "161819",
             "BackgroundSelectedHighContrast": "161819",
             "Border": "161819",
-            "RowBorder": "1D1F21",
+            "RowBorder": "161819",
             "BorderOut": "161819",
             "Shadow": "161819",
             "Text": "B3B4B4"
