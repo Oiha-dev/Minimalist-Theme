@@ -3,7 +3,7 @@
     "icons": "minimalist_oiha",
     "colors": {
         "PrimaryText": "B3B4B4",
-        "SecondaryText": "E5E6E6",
+        "SecondaryText": "B3B4B4",
         "AccentText": "5294e2",
         "ApproximateSignText": "595959",
         "ApproximateExpressionText": "595959",
@@ -82,12 +82,12 @@
             "Background": "1D1F21"
         },
         "List": {
-            "CellBackground": "161819",
+            "CellBackground": "1D1F21",
             "CellBackgroundSelected": "161819",
             "CellBorder": "161819"
         },
         "Button": {
-            "Background": "1A1C1D",
+            "Background": "1D1F21",
             "BackgroundSelected": "161819",
             "BackgroundSelectedHighContrast": "161819",
             "Border": "161819",
@@ -98,11 +98,11 @@
         },
         "Tab": {
             "Background": "1D1F21",
-            "BackgroundSelected": "161819",
+            "BackgroundSelected": "1A1C1D",
             "BackgroundActive": "161819",
             "BackgroundSelectedAndActive": "161819",
             "Text": "B3B4B4",
-            "TextActive": "505153"
+            "TextActive": "E5E6E6"
         },
         "SubTab": {
             "Background": "e0e0e0",
