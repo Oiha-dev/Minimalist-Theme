@@ -123,11 +123,11 @@
         "Home": {
             "Background": "1D1F21",
             "CellBackground": "1D1F21",
-            "CellBackgroundActive": "1D1F21",
+            "CellBackgroundActive": "161819",
             "CellText": "B3B4B4",
-            "CellTextActive": "E5E6E6",
+            "CellTextActive": "1D1F21",
             "CellTextExternal": "B3B4B4",
-            "CellTextExternalActive": "E5E6E6"
+            "CellTextExternalActive": "1D1F21"
         },
         "Atom": {
             "Unknown": "eeeeee",
