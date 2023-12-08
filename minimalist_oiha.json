@@ -71,38 +71,38 @@
             "Tangent": "595959"
         },
         "SubMenu": {
-            "Background": "e0e0e0",
-            "Border": "fafafa",
-            "Text": "000000"
+            "Background": "1D1F21",
+            "Border": "1D1F21",
+            "Text": "B3B4B4"
         },
         "Toolbox": {
-            "HeaderBackground": "4a4a4a",
-            "HeaderText": "ffffff",
-            "HeaderBorder": "4a4a4a",
-            "Background": "000000"
+            "HeaderBackground": "161819",
+            "HeaderText": "B3B4B4",
+            "HeaderBorder": "161819",
+            "Background": "1D1F21"
         },
         "List": {
-            "CellBackground": "ffffff",
-            "CellBackgroundSelected": "e0e0e0",
-            "CellBorder": "ededef"
+            "CellBackground": "505153",
+            "CellBackgroundSelected": "505153",
+            "CellBorder": "505153"
         },
         "Button": {
-            "Background": "e6e6e6",
-            "BackgroundSelected": "c9c9c9",
-            "BackgroundSelectedHighContrast": "00b2b0",
-            "Border": "adadad",
-            "RowBorder": "d9d9d9",
-            "BorderOut": "f5f5f5",
-            "Shadow": "380005",
-            "Text": "000000"
+            "Background": "505153",
+            "BackgroundSelected": "161819",
+            "BackgroundSelectedHighContrast": "161819",
+            "Border": "161819",
+            "RowBorder": "161819",
+            "BorderOut": "161819",
+            "Shadow": "161819",
+            "Text": "B3B4B4"
         },
         "Tab": {
-            "Background": "4a4a4a",
-            "BackgroundSelected": "757575",
-            "BackgroundActive": "fafafa",
-            "BackgroundSelectedAndActive": "e3e3e3",
-            "Text": "ffffff",
-            "TextActive": "000000"
+            "Background": "1D1F21",
+            "BackgroundSelected": "161819",
+            "BackgroundActive": "161819",
+            "BackgroundSelectedAndActive": "161819",
+            "Text": "B3B4B4",
+            "TextActive": "B3B4B4"
         },
         "SubTab": {
             "Background": "e0e0e0",
@@ -110,24 +110,24 @@
             "Text": "000000"
         },
         "Banner": {
-            "FirstBackground": "4a4a4a",
-            "FirstBorder": "4a4a4a",
-            "FirstText": "ffffff",
-            "FirstVariantBackground": "4a4a4a",
-            "FirstVariantBorder": "fafafa",
-            "FirstVariantText": "ffffff",
-            "SecondBackground": "e0e0e0",
-            "SecondBorder": "fafafa",
-            "SecondText": "000000"
+            "FirstBackground": "1D1F21",
+            "FirstBorder": "1D1F21",
+            "FirstText": "B3B4B4",
+            "FirstVariantBackground": "1D1F21",
+            "FirstVariantBorder": "1D1F21",
+            "FirstVariantText": "B3B4B4",
+            "SecondBackground": "1D1F21",
+            "SecondBorder": "1D1F21",
+            "SecondText": "B3B4B4"
         },
         "Home": {
-            "Background": "ffffff",
-            "CellBackground": "ffffff",
-            "CellBackgroundActive": "4a4a4a",
-            "CellText": "000000",
-            "CellTextActive": "ffffff",
-            "CellTextExternal": "008f87",
-            "CellTextExternalActive": "6fe6df"
+            "Background": "1D1F21",
+            "CellBackground": "1D1F21",
+            "CellBackgroundActive": "1D1F21",
+            "CellText": "B3B4B4",
+            "CellTextActive": "E5E6E6",
+            "CellTextExternal": "B3B4B4",
+            "CellTextExternalActive": "E5E6E6"
         },
         "Atom": {
             "Unknown": "eeeeee",
