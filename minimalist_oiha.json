@@ -98,11 +98,11 @@
         },
         "Tab": {
             "Background": "1D1F21",
-            "BackgroundSelected": "161819",
-            "BackgroundActive": "161819",
+            "BackgroundSelected": "505153",
+            "BackgroundActive": "505153",
             "BackgroundSelectedAndActive": "161819",
             "Text": "B3B4B4",
-            "TextActive": "B3B4B4"
+            "TextActive": "505153"
         },
         "SubTab": {
             "Background": "e0e0e0",
