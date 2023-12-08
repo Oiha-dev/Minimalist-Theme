@@ -31,12 +31,12 @@
         },
         "ScrollBar": {
             "Foreground": "B3B4B4",
-            "Background": "505153"
+            "Background": "161819"
         },
         "Control": {
             "": "B3B4B4",
             "Enabled": "B3B4B4",
-            "Disabled": "505153"
+            "Disabled": "161819"
         },
         "Calculation": {
             "BackgroundOdd": "1D1F21",
@@ -82,12 +82,12 @@
             "Background": "1D1F21"
         },
         "List": {
-            "CellBackground": "505153",
-            "CellBackgroundSelected": "505153",
-            "CellBorder": "505153"
+            "CellBackground": "161819",
+            "CellBackgroundSelected": "161819",
+            "CellBorder": "161819"
         },
         "Button": {
-            "Background": "505153",
+            "Background": "1A1C1D",
             "BackgroundSelected": "161819",
             "BackgroundSelectedHighContrast": "161819",
             "Border": "161819",
@@ -98,8 +98,8 @@
         },
         "Tab": {
             "Background": "1D1F21",
-            "BackgroundSelected": "505153",
-            "BackgroundActive": "505153",
+            "BackgroundSelected": "161819",
+            "BackgroundActive": "161819",
             "BackgroundSelectedAndActive": "161819",
             "Text": "B3B4B4",
             "TextActive": "505153"
