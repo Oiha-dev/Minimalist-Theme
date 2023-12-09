@@ -7,6 +7,7 @@ A minimalist theme for the custom firmware Omega and Upsilon of the Numworks cal
 ![App Screenshot](https://i.imgur.com/Fvhjdtm.png)
 ![App Screenshot](https://i.imgur.com/gcdj1SJ.png)
 ![App Screenshot](https://i.imgur.com/jqkbx1A.png)
+![App Screenshot](https://i.imgur.com/ocqlNx1.png)
 
 
 ## How to install
