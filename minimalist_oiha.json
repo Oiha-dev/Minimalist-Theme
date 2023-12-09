@@ -105,9 +105,9 @@
             "TextActive": "E5E6E6"
         },
         "SubTab": {
-            "Background": "e0e0e0",
+            "Background": "1D1F21",
             "BackgroundSelected": "d1d1d1",
-            "Text": "000000"
+            "Text": "B3B4B4"
         },
         "Banner": {
             "FirstBackground": "1D1F21",
