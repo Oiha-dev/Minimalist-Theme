@@ -130,21 +130,21 @@
             "CellTextExternalActive": "1D1F21"
         },
         "Atom": {
-            "Unknown": "eeeeee",
-            "Text": "000000",
-            "AlkaliMetal": "ffaa00",
-            "AlkaliEarthMetal": "f6f200",
-            "Lanthanide": "ffaa8b",
-            "Actinide": "deaacd",
-            "TransitionMetal": "de999c",
-            "PostTransitionMetal": "9cbaac",
-            "Metalloid": "52ce8b",
-            "Halogen": "00debd",
-            "ReactiveNonmetal": "00ee00",
-            "NobleGas": "8baaff",
-            "TableLines": "323532",
-            "Highlight": "000000",
-            "Background": "d9d9d9"
+            "Unknown": "2D2D2D",
+            "Text": "B3B4B4",
+            "AlkaliMetal": "5C5C5C",
+            "AlkaliEarthMetal": "9B9B9B",
+            "Lanthanide": "9B9B9B",
+            "Actinide": "5C5C5C",
+            "TransitionMetal": "5C5C5C",
+            "PostTransitionMetal": "9B9B9B",
+            "Metalloid": "5C5C5C",
+            "Halogen": "6D6D6D",
+            "ReactiveNonmetal": "9B9B9B",
+            "NobleGas": "9B9B9B",
+            "TableLines": "4E4E4E",
+            "Highlight": "2b2e39",
+            "Background": "4E4E4E"
         }
     }
 }
